@@ -1,7 +1,7 @@
 from solcx import compile_standard, install_solc
 import json
 from web3 import Web3
-
+#This is the basic version
 
 install_solc("0.6.0")
 
